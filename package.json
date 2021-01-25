@@ -1,0 +1,30 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "This is me learning Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoFigueroa98/learning-node-js.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Course",
+    "Learning"
+  ],
+  "author": "Diego Aaron Figueroa Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoFigueroa98/learning-node-js/issues"
+  },
+  "homepage": "https://github.com/DiegoFigueroa98/learning-node-js#readme"
+}
